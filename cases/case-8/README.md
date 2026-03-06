@@ -1,6 +1,5 @@
 # Caso 8: Voleibol — Panelado
 
-**Responsable de sesión:** ALBERTO
 **Orientación:** Entrenamiento deportivo
 **Objetivo:** Analizar las zonas de juego de mayor participación y eficacia en el voleibol.
 

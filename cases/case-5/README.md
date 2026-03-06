@@ -1,6 +1,5 @@
 # Caso 5: Estrategias comunicativas
 
-**Responsable de sesión:** OLEGUER
 **Orientación:** Educación Física escolar e iniciación deportiva
 **Objetivo:** Análisis observacional de las propias estrategias comunicativas.
 

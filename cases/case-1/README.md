@@ -1,6 +1,5 @@
 # Caso 1: Esgrima — Iniciación deportiva
 
-**Responsable de sesión:** XAVI
 **Orientación:** Entrenamiento deportivo
 **Objetivo:** Mejorar la preparación táctica de tiradoras juveniles de espada femenina mediante análisis observacional con LINCE PLUS.
 

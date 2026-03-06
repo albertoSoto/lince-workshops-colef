@@ -1,6 +1,5 @@
 # Caso 7: Salud — Ángulos e IA
 
-**Responsable de sesión:** ALBERTO
 **Orientación:** Readaptación físico-deportiva
 **Objetivo:** Evaluar las mejoras angulares tras una lesión de rodilla.
 

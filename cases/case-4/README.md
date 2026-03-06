@@ -1,6 +1,5 @@
 # Caso 4: Salto de longitud — Educación Física escolar
 
-**Responsable de sesión:** OLEGUER
 **Orientación:** Educación Física escolar e iniciación deportiva
 **Objetivo:** Incorporación de las nuevas tecnologías en los centros escolares facilitando el aprendizaje autónomo del alumnado de Educación Física mediante un registro comparativo de coevaluación por parejas.
 

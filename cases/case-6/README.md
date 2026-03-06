@@ -1,6 +1,5 @@
 # Caso 6: Escalada — Multidispositivo
 
-**Responsable de sesión:** OLEGUER
 **Orientación:** Iniciación deportiva
 **Objetivo:** Detectar los errores de ejecución entre entrenadores de una especialidad deportiva para trabajar colaborativamente sobre la técnica de escalada.
 

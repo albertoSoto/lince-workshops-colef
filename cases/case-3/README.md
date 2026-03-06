@@ -1,6 +1,5 @@
 # Caso 3: Sentadilla — Dirección técnica fitness
 
-**Responsable de sesión:** XAVI
 **Orientación:** Dirección técnica deportiva en un centro fitness
 **Objetivo:** Evaluar y corregir la ejecución técnica de la sentadilla con barra en usuarios de sala fitness, mediante videoanálisis con LINCE PLUS.
 

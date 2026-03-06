@@ -6,7 +6,7 @@ LINCE PLUS es un software gratuito y de código abierto (Soto et al., 2019, 2022
 
 ---
 
-## Parte 1 — XAVI (Casos 1, 2 y 3)
+## Parte 1 (Casos 1, 2 y 3)
 
 ### Caso 1: Esgrima (Iniciación deportiva)
 **Orientación:** Entrenamiento deportivo
@@ -59,7 +59,7 @@ Evaluación de la capacidad del staff técnico para detectar errores en la senta
 
 ---
 
-## Parte 2 — OLEGUER (Casos 4, 5 y 6)
+## Parte 2 (Casos 4, 5 y 6)
 
 ### Caso 4: Salto de longitud (Educación Física)
 **Orientación:** Educación Física escolar e iniciación deportiva
@@ -111,7 +111,7 @@ Trabajo colaborativo entre entrenadores para detectar errores técnicos en escal
 
 ---
 
-## Parte 3 — ALBERTO (Casos 7, 8 y 9)
+## Parte 3 (Casos 7, 8 y 9)
 
 ### Caso 7: Salud (Ángulos, IA)
 **Orientación:** Readaptación físico-deportiva

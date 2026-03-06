@@ -1,6 +1,5 @@
 # Caso 2: Baloncesto en silla de ruedas — Entrenamiento
 
-**Responsable de sesión:** XAVI
 **Orientación:** Entrenamiento deportivo
 **Objetivo:** Analizar las fases ofensivas y defensivas de un equipo de baloncesto en silla de ruedas.
 
