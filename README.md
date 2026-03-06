@@ -42,7 +42,7 @@ El taller se estructura en **9 casos prácticos** organizados en 3 bloques, cada
 
 ## Casos prácticos
 
-### Parte 1 — XAVI
+### Parte 1
 
 | Caso | Tema | Orientación | Funcionalidad LINCE PLUS |
 |------|------|-------------|--------------------------|
@@ -50,7 +50,7 @@ El taller se estructura en **9 casos prácticos** organizados en 3 bloques, cada
 | **2** | Baloncesto en silla de ruedas | Entrenamiento deportivo | Mismo proyecto, 2 observadores, 2 dispositivos (síncrono/asíncrono) |
 | **3** | Sentadilla (dirección técnica fitness) | Dirección técnica | Plantillas de observación (episodios), fiabilidad interobservador (Kappa) |
 
-### Parte 2 — OLEGUER
+### Parte 2
 
 | Caso | Tema | Orientación | Funcionalidad LINCE PLUS |
 |------|------|-------------|--------------------------|
@@ -58,7 +58,7 @@ El taller se estructura en **9 casos prácticos** organizados en 3 bloques, cada
 | **5** | Estrategias comunicativas | Educación Física escolar | Dos vídeos en un proyecto, resultados comparativos y descriptivos |
 | **6** | Escalada (multidispositivo) | Iniciación deportiva | Registro simultáneo multidispositivo en un mismo proyecto (wifi) |
 
-### Parte 3 — ALBERTO
+### Parte 3
 
 | Caso | Tema | Orientación | Funcionalidad LINCE PLUS |
 |------|------|-------------|--------------------------|
