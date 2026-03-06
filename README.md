@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="https://lince-plus.com/">
+    <img src="assets/lince-logo-nav.png" alt="LINCE PLUS" height="80">
+  </a>
+</p>
+
 # Taller LINCE PLUS — COLEF / UPRO 2026
+
+<p align="center">
+  <img src="assets/course-banner.png" alt="Profundización en la observación de la actividad física y deportiva a través de LINCE PLUS" width="480">
+</p>
 
 Materiales del taller práctico de [LINCE PLUS](https://observesport.com), software gratuito y de código abierto para el análisis sistemático de datos a partir de vídeos mediante metodología observacional (Soto et al., 2019, 2022).
 
