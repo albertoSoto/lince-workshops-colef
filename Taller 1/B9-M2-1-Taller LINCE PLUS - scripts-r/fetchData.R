@@ -1,0 +1,5 @@
+#install.packages("devtools")
+#install.packages("jsonlite")
+library(jsonlite)
+lince_data <- fromJSON("http://localhost:52634/register/get")
+print(lince_data)
