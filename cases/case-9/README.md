@@ -1,6 +1,5 @@
 # Caso 9: Dirección deportiva — R / Excel avanzado
 
-**Responsable de sesión:** ALBERTO
 **Orientación:** Dirección deportiva
 **Objetivo:** Utilizar R para el análisis de datos observacionales obtenidos con LINCE PLUS en un contexto de dirección deportiva.
 
